@@ -1,4 +1,4 @@
-### Hi there 👋
+### Jaykrushna here 👋
 
 <!--
 **Jaykrushna/Jaykrushna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="jaykrushna-solanki" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/jaykrushna-solanki?trk=profile-badge">Jaykrushna Solanki</a></div>
-              
+<br/>
+
+<div align="center">
+  
+<a href="https://in.linkedin.com/in/jaykrushna-solanki" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+</div> 
+
+<br/>
