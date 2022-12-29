@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##
+
 <br/>
 
 <div align="left">
@@ -23,6 +25,11 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
+  
+<a href="https://stackoverflow.com/users/5315421/jaykrushna-solanki?tab=profile" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a> 
+
 </div> 
 
 <br/>
