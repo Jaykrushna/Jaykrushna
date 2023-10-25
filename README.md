@@ -1,4 +1,4 @@
-### Jaykrushna here <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width="30px">
+### Jaykrushna here 👋
 
 <!--
 **Jaykrushna/Jaykrushna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
