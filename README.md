@@ -34,4 +34,3 @@ Here are some ideas to get you started:
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=Jaykrushna&style=flat-square)
